@@ -1,0 +1,23 @@
+{
+  "name": "weightconverter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gijayecodes/weight_converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gijayecodes/weight_converter/issues"
+  },
+  "homepage": "https://github.com/gijayecodes/weight_converter#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
